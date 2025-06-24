@@ -48,4 +48,4 @@
 
 ## Support
 <p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
-<p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+<p>Feel free to point out any bugs🪲 or improvements in the issues tab.</p>
